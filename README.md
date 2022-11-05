@@ -15,3 +15,8 @@
 ### Follow me
 [![VK](https://img.shields.io/badge/VK-ff014f?style=for-the-badge&logo=VK)](https://vk.com/shuntrs)
 [![Telegram](https://img.shields.io/badge/Telegram-ff014f?style=for-the-badge&logo=telegram)](https://t.me/SHUNTRWEB)
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuntr&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuntr&layout=compact&theme=radical)
+
