@@ -1,6 +1,8 @@
 ![Header](https://github.com/SHUNTR/SHUNTR/blob/main/assets/banner.png)
 
-## Trying to be a frontend devoloper. Studying since 3 feb 2022
+# Trying to be a frontend devoloper. Studying since 3 feb 2022
+### The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can't achieve it.
+
 
 ### Some stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuntr&theme=radical&show_icons=true)
