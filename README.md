@@ -8,7 +8,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuntr&theme=radical&show_icons=true)
 
 ### Languages and Tools
-
 ![CSS](https://img.shields.io/badge/CSS-ff014f?style=for-the-badge&logo=CSS)
 ![SCSS](https://img.shields.io/badge/SCSS-ff014f?style=for-the-badge&logo=SCSS)
 ![JS](https://img.shields.io/badge/JS-ff014f?style=for-the-badge&logo=JavaScript)
