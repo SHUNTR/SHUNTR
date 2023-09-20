@@ -7,7 +7,6 @@
 ### Some stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuntr&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuntr&layout=Demo&theme=radical)
 ### Languages and Tools
 
 ![CSS](https://img.shields.io/badge/CSS-ff014f?style=for-the-badge&logo=CSS)
