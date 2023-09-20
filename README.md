@@ -15,6 +15,7 @@
 ![SQL](https://img.shields.io/badge/SQL-ff014f?style=for-the-badge&logo=)
 ![Jquery](https://img.shields.io/badge/Jquery-ff014f?style=for-the-badge&logo=Jquery)
 ![PHP](https://img.shields.io/badge/PHP-ff014f?style=for-the-badge&logo=php)
+![VUE](https://img.shields.io/badge/PHP-ff014f?style=for-the-badge&logo=VUE)
 
 ### Follow me
 [![VK](https://img.shields.io/badge/VK-ff014f?style=for-the-badge&logo=VK)](https://vk.com/shuntrs)
