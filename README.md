@@ -11,11 +11,13 @@
 ![CSS](https://img.shields.io/badge/CSS-ff014f?style=for-the-badge&logo=CSS)
 ![SCSS](https://img.shields.io/badge/SCSS-ff014f?style=for-the-badge&logo=SCSS)
 ![JS](https://img.shields.io/badge/JS-ff014f?style=for-the-badge&logo=JavaScript)
+![TS](https://img.shields.io/badge/JS-ff014f?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/HTML-ff014f?style=for-the-badge&logo=HTML)
 ![SQL](https://img.shields.io/badge/SQL-ff014f?style=for-the-badge&logo=)
 ![Jquery](https://img.shields.io/badge/Jquery-ff014f?style=for-the-badge&logo=Jquery)
 ![PHP](https://img.shields.io/badge/PHP-ff014f?style=for-the-badge&logo=php)
 ![VueJs](https://img.shields.io/badge/Vue-ff014f?style=for-the-badge&logo=Vue)
+![Docker](https://img.shields.io/badge/Vue-ff014f?style=for-the-badge&logo=Docker)
 
 ### Follow me
 [![VK](https://img.shields.io/badge/VK-ff014f?style=for-the-badge&logo=VK)](https://vk.com/shuntrs)
