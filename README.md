@@ -17,7 +17,7 @@
 ![Jquery](https://img.shields.io/badge/Jquery-ff014f?style=for-the-badge&logo=Jquery)
 ![PHP](https://img.shields.io/badge/PHP-ff014f?style=for-the-badge&logo=php)
 ![VueJs](https://img.shields.io/badge/Vue-ff014f?style=for-the-badge&logo=Vue)
-![Docker](https://img.shields.io/badge/Vue-ff014f?style=for-the-badge&logo=Docker)
+![Docker](https://img.shields.io/badge/Docker-ff014f?style=for-the-badge&logo=Docker)
 
 ### Follow me
 [![VK](https://img.shields.io/badge/VK-ff014f?style=for-the-badge&logo=VK)](https://vk.com/shuntrs)
