@@ -1,6 +1,6 @@
 ![Header](https://github.com/SHUNTR/SHUNTR/blob/main/assets/banner.png)
 
-## Trying to be a frontend devoloper. Studying since 3 feb 2022
+## Trying to be a good web devoloper.
 #### The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can't achieve it.
 
 
